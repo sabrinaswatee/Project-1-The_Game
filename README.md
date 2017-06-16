@@ -60,6 +60,7 @@
   * Change the alert on winning, such that users don't need to click ok/enter. It should   
     appear/disaapear on screen to alert the user
   * Allowing users to customize their profile and tokens further
+  * Wouls have liked to extend to Strategic tic-tac-toe, which is 9 sets of boxes in another big tac-tac-toe
 
 
 ### How to play:
