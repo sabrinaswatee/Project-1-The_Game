@@ -150,6 +150,8 @@ var checkWinner = function () {
   }
   else if (counter == 9) {
     alert ('Draw');
+    gameCounter++;
+    gameCount.textContent = gameCounter;
     clearTime = setTimeout (playAgain, 300);
   }
 };
